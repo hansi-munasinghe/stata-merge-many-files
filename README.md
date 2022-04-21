@@ -1,5 +1,5 @@
-# stata-merge-many-files
-Syntax for merging many stata datasets 
+
+# Syntax for merging many stata datasets 
 
 STEPS:
 * Save all datasets you want merged in one folder
